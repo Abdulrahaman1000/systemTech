@@ -1,0 +1,29 @@
+.nav{
+    background-image: url("../../public/img/Rectang.jpg");  
+    color: white;
+      width: 100%;
+}
+.logo{
+    width: 120px;
+    margin: auto;
+}
+.ul{
+    position: absolute;
+    text-align: center;
+}
+.ul li{
+
+ position: relative;
+ left: 650px;
+ font-size: small;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+@media only screen and (max-width: 600px) {
+    .nav{
+        background-image: url("../../public/img/Rectang.jpg");  
+        color: white;
+        width: 100%;
+          
+    }  
+}

@@ -1,0 +1,14 @@
+.support,.support1,.support2{
+    width: 100%;
+}
+.margin,.margin1,.margin2{
+    margin: auto;
+    padding: 2px;
+}
+.img1,.img2,.img3{
+    margin: auto;
+    padding-top: 50px;
+} 
+.h2{
+    font-weight: bold;
+}

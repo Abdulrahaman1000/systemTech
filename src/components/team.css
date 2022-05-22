@@ -1,0 +1,38 @@
+.team{
+    background-image: url("../../public/img/tean.png");  
+    background-position: center; 
+    background-repeat: no-repeat; 
+    width: 100%;
+   
+
+}
+.bout{
+    background-image: url("../../public/img/Rectang.jpg");  
+    height: auto;
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    color: white;
+    width: 100%;
+}
+.container .heading{
+    font-size: 3rem;
+    margin: 2rem 0;
+    text-transform: capitalize;
+    color: var(--purple);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: .2rem;
+    text-align: center;
+    text-shadow: 0.3rem .5rem rgba(0,0,0,.5);
+  }
+  .img-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .img-container .img{
+    margin: 2rem;
+  }
+  .container h1,p{
+      text-align: center;
+  }

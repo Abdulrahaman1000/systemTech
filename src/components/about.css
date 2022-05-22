@@ -1,0 +1,13 @@
+.about{
+    background-image: url("../../public/img/Rectangle.jpg");  
+    height: 500px;
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    color: white;
+}
+img{
+    margin-left: 130px;
+    margin-top: 20px;
+    border-radius: 10%;
+}
