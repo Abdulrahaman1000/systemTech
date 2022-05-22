@@ -4,12 +4,11 @@ import bgImg from '../assets/about.jpg'
 const About = () => {
   return (
     <div className=' about w-full  py-16 px-4'>
-        <h1 className='md:text-4xl sm:text-3xl text-2xl font-bold py-2 text-center'>About Us</h1>
+        <h1 className='md:text-4xl sm:text-3xl text-2xl font-bold py-2 text-center uppercase'>About Us</h1>
     <div className='max-w-[1240px] mx-auto grid md:grid-cols-2'>
-      
-    <img className='img  w-full h-[300px] w-[300px]' src={bgImg} alt="/" />
+      <img className='img  w-full h-[300px] w-[300px]' src={bgImg} alt="/" />
       <div className='flex flex-col justify-center'>
-        <h1 className='md:text-4xl sm:text-3xl text-2xl font-bold py-10'>Who Is
+        <h1 className='md:text-4xl sm:text-3xl text-2xl font-bold py-10 '>Who Is
 Systems Technologies</h1>
         <p>
         System Technologies Limited a limited liability company started in 2020. 

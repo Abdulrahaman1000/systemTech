@@ -22,7 +22,7 @@
 .home{
         background-image: url("../../public/img/Rectang.jpg");  
         color: black;
-        width: fit-content;
+        width: auto;
         height: auto;
         
  }  
@@ -31,6 +31,18 @@
 
  }
 }
+@media only screen and (max-width: 770px) {
+    .home{
+        background-image: url("../../public/img/Rectang.jpg");  
+        color: black;
+        width: auto;
+        height: auto;
+        
+ }  
+ .home h1,p{
+    margin-right: 70px;
 
+ }
+}
 
 

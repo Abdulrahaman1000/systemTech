@@ -11,3 +11,28 @@ img{
     margin-top: 20px;
     border-radius: 10%;
 }
+@media only screen and (max-width: 600px) {
+    .about{
+        background-image: url("../../public/img/Rectangle.jpg");  
+        height: auto;
+        background-position: center; 
+        background-repeat: no-repeat; 
+        background-size: cover; 
+        color: white;
+    }
+    img{
+        margin: auto;
+        padding: 20px;
+        border-radius: 10%;
+    }
+    h1{
+        margin: auto;
+        padding: 20px;
+    }
+    p{
+        margin: auto;
+        padding-left: 60px;
+       text-align: justify;
+        
+    }
+}

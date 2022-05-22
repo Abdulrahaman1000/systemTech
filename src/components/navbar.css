@@ -17,6 +17,7 @@
  left: 650px;
  font-size: small;
  font-family: Georgia, 'Times New Roman', Times, serif;
+ cursor: pointer;
 
 }
 @media only screen and (max-width: 600px) {

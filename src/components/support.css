@@ -12,3 +12,38 @@
 .h2{
     font-weight: bold;
 }
+@media only screen and (max-width: 600px) {
+    .support,.support1,.support2{
+    width: 100%;
+}
+.margin,.margin1,.margin2{
+    margin: auto;
+    padding: 2px;
+}
+.img1,.img2,.img3{
+    margin: auto;
+    padding-top: 50px;
+} 
+.h2{
+    font-weight: bold; 
+    font-family: 'Times New Roman', Times, serif;
+}
+.p{
+font-family: 'Times New Roman', Times, serif;
+width: auto;
+margin: auto;
+padding: 12px;
+}
+.h{
+    font-weight: bold; 
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    padding: 12px;
+}
+.pp {
+    font-family: 'Times New Roman', Times, serif;
+    width: auto;
+    margin: auto;
+    padding: 12px;
+}  
+    }
