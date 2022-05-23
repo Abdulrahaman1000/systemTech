@@ -5,14 +5,16 @@
  
 .logo{
     margin-left: 20px;
+   
+   
 }
 @media only screen and (max-width: 600px) {
    .company{
-      margin-left: 40px;
+      margin-left: 80px;
+      margin-bottom: 10px;
    }
-   ul li {
-       
-       margin-left: 40px;
+   ul .l {
+      margin-left: 80px;
   
    }
             

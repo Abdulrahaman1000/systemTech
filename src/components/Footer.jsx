@@ -21,23 +21,22 @@ const Footer = () => {
                 <ul>
                
                 <img className='logo' src={bgImg} alt="/" /> 
-                
-                    <li className='py-3'>No, 65 Yahyah Abaton Plaza,<br/>
+                    <li className='py-2'>No, 65 Yahyah Abaton Plaza,<br/>
                     Ilorin, Kwara State, Nigeria</li>
-                    <li className='py-4'> support@systemtech.com.ng</li>
-                    <li className='py-4'>+2348168670476</li>
+                    <li className='py-3'> support@systemtech.com.ng</li>
+                    <li className='py-3'>+2348168670476</li>
                   
                 </ul>
             </div>
             <div>
                 <h6 className=' company font-bold uppercase pt-3'>Company</h6>
                 <ul>
-            <li className='li py-1'><Link to="home" smooth={true} duration={500}>Home</Link></li>
-             <li className='li py-1'><Link to="support" smooth={true} offset={-50} duration={500}>what We Do</Link></li>
-             <li className='li py-1'><Link to="about" smooth={true} offset={-200} duration={500}>About Us</Link></li>
-            <li className='li py-1'><Link to="team" smooth={true} offset={-100} duration={500}>Our Team</Link></li>
-          <li className='li py-1'><Link to="bout" smooth={true} offset={-100} duration={500}>Our Partners</Link></li>
-          <li className='li py-1'><Link to="contact" smooth={true} offset={-50} duration={500}>Contact Us</Link></li>
+            <li className='l py-1'><Link to="home" smooth={true} duration={500}>Home</Link></li>
+             <li className='l py-1'><Link to="support" smooth={true} offset={-50} duration={500}>what We Do</Link></li>
+             <li className='l py-1'><Link to="about" smooth={true} offset={-200} duration={500}>About Us</Link></li>
+            <li className='l py-1'><Link to="team" smooth={true} offset={-100} duration={500}>Our Team</Link></li>
+          <li className='l py-1'><Link to="bout" smooth={true} offset={-100} duration={500}>Our Partners</Link></li>
+          <li className='l py-1'><Link to="contact" smooth={true} offset={-50} duration={500}>Contact Us</Link></li>
                 </ul>
             </div>
             <div className='col-span-2 pt-8 md:pt-2'>
