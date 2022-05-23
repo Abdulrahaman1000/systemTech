@@ -8,9 +8,9 @@ const About = () => {
     <div className='max-w-[1240px] mx-auto grid md:grid-cols-2'>
       <img className='img  w-full h-[300px] w-[300px]' src={bgImg} alt="/" />
       <div className='flex flex-col justify-center'>
-        <h1 className='md:text-4xl sm:text-3xl text-2xl font-bold py-10 '>Who Is
+        <h1 className='h1 md:text-4xl sm:text-3xl text-2xl font-bold py-3 '>Who Is
 Systems Technologies</h1>
-        <p>
+        <p className='PP'>
         System Technologies Limited a limited liability company started in 2020. 
         It was established to help actualize technological solutions for Nigerian businesses. 
         We offer vast engineering, security and technology services & solutions, our services 

@@ -11,6 +11,11 @@ img{
     margin-top: 20px;
     border-radius: 10%;
 }
+.h1{
+    margin-left: 50px;
+}
+
+
 @media only screen and (max-width: 600px) {
     .about{
         background-image: url("../../public/img/Rectangle.jpg");  
@@ -29,10 +34,7 @@ img{
         margin: auto;
         padding: 20px;
     }
-    p{
-        margin: auto;
-        padding-left: 60px;
-       text-align: justify;
-        
-    }
+    .PP{
+        width: 100%;
+      }
 }
