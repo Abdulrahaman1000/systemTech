@@ -52,7 +52,7 @@ const Support = () => {
       <div className='margin2 flex flex-col'>
         <h1 className='h md:text-4xl sm:text-3xl text-2xl font-bold py-3'>Financial Software Development</h1>
         <p className='pp py-1 text-1xl  text-center'>
-        Our team of finacial experts are always ready to help clients designed their
+        Our team of financial experts are always ready to help clients designed their
         proffered fin-tech solutions:
         </p>
       </div>
